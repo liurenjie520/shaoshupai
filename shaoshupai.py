@@ -88,7 +88,7 @@ if __name__ == '__main__':
     FormData = {
         'sendkey': 'akb48',
         'msg_type': 'text',
-        'msg': f'科技区热榜-{time}' + '\n' + is_tomorrow.lower()
+        'msg': f'少数派热榜-{time}' + '\n' + is_tomorrow.lower()
 
     }
 
